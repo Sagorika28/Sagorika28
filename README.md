@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=22&pause=1000&color=10EBF7&center=true&vCenter=true&width=860&lines=Building+ML+systems+that+ship;Safety-critical+RAG+%2B+evaluation;Experimentation+%2B+causal+inference+in+real+products;Applied+ML+at+Uber+%7C+Forecasting+and+fraud+at+AmEx" alt="typing">
 </p>
 
----
+
 
 ## 🚀 About Me
 I'm a Master’s student in Data Science at the University of Washington (Seattle), graduating March 2026. I build ML systems end to end, from data pipelines and modeling to evaluation, experimentation, and production integration.
@@ -22,10 +22,10 @@ I'm a Master’s student in Data Science at the University of Washington (Seattl
 - ⚙️ **Systems**: Python/SQL, Spark/Hive, Databricks, AWS (Bedrock, SageMaker)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="coding gif">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"" width="600" alt="coding gif">
 </p>
 
----
+
 
 ## 🧠 What I'm Working On
 ### 🔧 Contextual AI · Safety-critical RAG (WhatsApp)
@@ -36,7 +36,7 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
 - Hallucination checks with LLM-as-a-judge
 - WhatsApp orchestration with conversation state, resume/restart, logging
 
----
+
 
 ## 📚 Skills (the “what I actually do” list)
 📊 **Experimentation & Causal Inference**: A/B testing, CUPED, causal inference, KPI design, stratified analysis  
@@ -44,7 +44,7 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
 🧠 **LLMs & GenAI**: RAG, agentic AI, prompting, evaluation, grounding  
 ⚙️ **Systems & Data**: pipelines, ETL, Spark/Hive, feature workflows, scalable inference patterns  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
----
+
 
 ### 🤖 Machine Learning & AI
 <p align="center">
@@ -65,7 +65,7 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
   <img src="https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
+
 
 ### ☁️ Cloud & Data Platforms
 <p align="center">
@@ -75,7 +75,7 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache&logoColor=black" />
 </p>
 
----
+
 
 ### 🗄️ Databases & Visualization
 <p align="center">
@@ -86,7 +86,7 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
----
+
 
 ### 🔧 Additional Tools
 <p align="center">
@@ -96,25 +96,10 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="tech gif">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="coding gif">
 </p>
 
----
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagorika28&theme=react-dark&area=true&custom_title=Contribution%20Trend" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagorika28&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagorika28&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 <p align="center">
@@ -130,5 +115,5 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
 </p>
 
 <p align="center">
-  <i>Currently looking for Applied Scientist / ML Engineer roles starting March 2026</i>
+  <i>Currently looking for Applied Scientist / ML Engineer roles starting May 2026</i>
 </p>

@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif"
-       width="600"
-       alt="AI neural animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=22&pause=1000&color=10EBF7&center=true&vCenter=true&width=860&lines=Building+ML+systems+that+ship;Safety-critical+RAG+%2B+evaluation;Experimentation+%2B+causal+inference+in+real+products;Applied+ML+at+Uber+%7C+Forecasting+and+fraud+at+AmEx" alt="typing">
 </p>
 
 
@@ -24,7 +22,9 @@ I'm a Master’s student in Data Science at the University of Washington (Seattl
 - ⚙️ **Systems**: Python/SQL, Spark/Hive, Databricks, AWS (Bedrock, SageMaker)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"" width="600" alt="coding gif">
+  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif"
+       width="600"
+       alt="AI neural animation">
 </p>
 
 
@@ -98,7 +98,9 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="coding gif">
+  <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif"
+       width="600"
+       alt="AI code animation">
 </p>
 
 

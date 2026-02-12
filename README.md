@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=22&pause=1000&color=10EBF7&center=true&vCenter=true&width=860&lines=Building+ML+systems+that+ship;Safety-critical+RAG+%2B+evaluation;Experimentation+%2B+causal+inference+in+real+products;Applied+ML+at+Uber+%7C+Forecasting+and+fraud+at+AmEx](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFvbXFvMzZhNjR6NW5xczFwNXdodWhoZWh6aDNwNWxybm9rdmxhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif)" alt="typing">
+  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif"
+       width="600"
+       alt="AI neural animation">
 </p>
 
 

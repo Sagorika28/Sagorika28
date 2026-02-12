@@ -103,15 +103,15 @@ Building a domain-specific RAG chatbot for HVAC refrigerant recovery and complia
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagorika28&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagorika28&theme=react-dark&area=true&custom_title=Contribution%20Trend" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagorika28&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagorika28&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagorika28&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagorika28&layout=compact&hide_border=true" />
 </p>
 
 ---
